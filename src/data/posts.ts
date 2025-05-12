@@ -71,8 +71,8 @@ export const posts: Post[] = [
     "userImage": "https://i.ibb.co/ymN2m0CM/20250502-0208-image.png",
     "location": "Tuscany, Italy",
     "media": {
-    "type": "image",
-    "url": "https://i.ibb.co/gZzzk54p/3.png"
+    "type": "video",
+    "url": "https://res.cloudinary.com/ddunt6myr/video/upload/v1747083233/video2_nrqjkk.mp4"
     },
     "caption": "Soft curves and golden hour glow — nature really brings out the goddess in me 🌾✨ #NaturalBeauty #CurvyAndProud",
     "likes": 9724,
