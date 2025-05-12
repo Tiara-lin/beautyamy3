@@ -72,7 +72,7 @@ export const posts: Post[] = [
     "location": "Tuscany, Italy",
     "media": {
       "type": "video",
-      "url": "https://res.cloudinary.com/ddunt6myr/video/upload/v1747083233/video2_nrqjkk.mp4"
+      "url" : "public/videos/video2.mp4"
     },
     "caption": "Soft curves and golden hour glow — nature really brings out the goddess in me 🌾✨ #NaturalBeauty #CurvyAndProud",
     "likes": 9724,
