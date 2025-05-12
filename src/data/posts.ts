@@ -240,4 +240,21 @@ export const posts: Post[] = [
       { "username": "breezeframe", "text": "Absolutely stunning, every time 👑" }
     ]
   },
+{
+  "id": "10",
+  "username": "beautyamy.ai",
+  "userImage": "https://i.ibb.co/ymN2m0CM/20250502-0208-image.png",
+  "location": "Tokyo, Japan",
+  "media": {
+    "type": "video",
+    "url": "https://res.cloudinary.com/ddunt6myr/video/upload/v1746974305/video_zinuer.mp4"
+  },
+  "caption": "In motion. In the moment. ✨ #ConfidentMoves",
+  "likes": 14200,
+  "timestamp": "Just now",
+  "comments": [
+    { "username": "flowvibes", "text": "Mesmerizing 😍" },
+    { "username": "cinematic.curves", "text": "Like a movie 🎬" }
+  ]
+},
 ];
